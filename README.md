@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arkhamlol
 - 👀 I’m interested in ... Computer, gaming, and etc.
 - 🌱 I’m currently learning ... Digital Forensics 
-- 💞️ I’m looking to collaborate on ... Anything On Digital Forenscis
+- 💞️ I’m looking to collaborate on ... Anything On Digital Forenscis/CyberSecurity 
 - 📫 How to reach me ... Discord: Arkhamlol #5237
 
 <!---
