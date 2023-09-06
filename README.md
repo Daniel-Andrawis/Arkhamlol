@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Arkhamlol
-- 👀 I’m interested in ... Computer, gaming, and etc.
+- 👋 Hi, I’m Daniel
 - 🌱 I’m currently learning ... CyberSecurity 
 - 💞️ I’m looking to collaborate on ... Anything On Digital Forenscis/CyberSecurity 
 - 📫 How to reach me ... Discord: Arkhamlol #5237
